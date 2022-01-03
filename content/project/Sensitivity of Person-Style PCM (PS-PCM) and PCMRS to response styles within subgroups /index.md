@@ -3,9 +3,7 @@ author: Yuan Ge; Stefanie Wind
 categories:
 date: "2021-12-31"
 draft: false
-excerpt: Building this static site generator theme was the first time I used an Atomic
-  (or Functional) CSS system like Tachyons. It’s a design system that provides very
-  small (which means fast) CSS modules that you can use in your HTML.
+excerpt: ""
 layout: single
 title: Sensitivity of Person-Style PCM (PS-PCM) and PCMRS to response styles within subgroups 
 ---

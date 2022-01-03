@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: University of Alabama | Alabama, U.S.
+description: the University of Alabama | Alabama, U.S.
 image_left: true
 images:
 - img/profile Pic.jpg
